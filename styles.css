@@ -109,6 +109,7 @@ a.body-links:hover {
 	}
 	.main-nav li {
 		float: left;
+		list-style: none;
 	}
 	.name {
 		float: left;
