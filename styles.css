@@ -53,6 +53,7 @@ a.body-links:hover {
 	margin-top: 6px;
 	margin-bottom: 6px;
 	text-align: center;
+	list-style-stype:none;
 }
 .main-nav a {
 	font-size: .95em;
