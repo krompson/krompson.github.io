@@ -60,6 +60,11 @@ a.body-links:hover {
 	color: #664E74;
 	text-transform: uppercase;
 }
+.main-nav {
+	padding-inline-start: 0px;
+	/*OR*/
+	padding: 0px;
+}
 .main-nav a:hover {
 	color: #ffffff;
 	background:#664E74;
@@ -74,8 +79,7 @@ a.body-links:hover {
 	padding-right: 1em;
 }
 .main-header {
-	padding-top: 1em;
-	padding-bottom: 1em;
+	padding: 1em;
 	background: #ffffff;
 	overflow: hidden;
 }
@@ -114,6 +118,7 @@ a.body-links:hover {
 	}
 	.name {
 		float: left;
+		line-height: 2.5em;
 	}
 	.feat-img {
 		width: 300px;
