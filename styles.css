@@ -52,6 +52,7 @@ a.body-links:hover {
 .name,.main-nav li {
 	margin-top: 6px;
 	margin-bottom: 6px;
+	padding-left 15px;
 	text-align: center;
 	list-style-type: none;
 }
