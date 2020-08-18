@@ -52,7 +52,7 @@ a.body-links:hover {
 .name,.main-nav li {
 	margin-top: 6px;
 	margin-bottom: 6px;
-	padding-left 15px;
+	padding-left 20px;
 	text-align: center;
 	list-style-type: none;
 }
@@ -71,7 +71,7 @@ a.body-links:hover {
 	background:#664E74;
 }
 .name a,.main-nav a {
-	padding: 10px 15px;
+	padding: 10px 20px;
 	display: block;
 }
 /* ---- Layout Containers ---- */
