@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Kristi Ernst Thompson</title>
+  <link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="normalize.css">
+  <link rel="shortcut icon" href="/favcon.png">
+</head>
+<body>
+  <div class="wrap">
+    
+    <header class="main-header">
+<a class="name">Kristi Ernst Thompson</a>        
+      <ul class="main-nav">
+          <li><a href="#about">About</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#publications">Portfolio</a></li>
+          <li><a href="">TIL</a></li>
+          <li><a href="https://forms.gle/2rETGeYDiqMYRATz5" target="_blank">Contact</a></li>
+        </ul>
+    </header> 
+  <div class="secondary-col">
+    <div class="container"> 
+      <p id="about"></p>
+        <img src="https://www.dropbox.com/s/y2xr4d98g2mrn5y/kristi-thompson-main-image.jpg?raw=1" alt="Photo of Kristi" class="main-image">
+ <p>Hey, I'm Kristi! I enjoy helping people find the magical sweet spot of exceptional work, and having fun doing it. When I'm not working, I like to travel, get outside, read, and watch 90s sitcoms.</p>       
+</div>
+      </div>
+    <div class="container"> 
+        <br>
+        <h1 id="Today I Learned">Experience</h1>
+          <h3>Date</h3>
+<p><q>Detailst</p>      
+      <br>      
+  </div>  
+  </div>
+  <footer class="main-footer">
+   <span>Handmade by Kristi</span>
+  </footer>
+</body>
+</html>
