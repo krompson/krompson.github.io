@@ -34,7 +34,8 @@
       <ul>
            <li>We can cancel an account on behalf of a customer from the Your Plan page, no password required.</li>
            <li>A CNAME record is preferable to a TXT record for DKIM because a TXT record requires a key to be manually set up. With a CNAME record, Help Scout is responsible for the key, and customers’ DKIM setup won’t break if we change our key in the future because their domain will automatically redirect to Help Scout.</li>
-    </ul>    
+           <li>There is currently on way to set a primary email address for a customer profile. When creating a new conversation, the email that appears in the To field is based on alphabetical order. In an existing conversation, the email address displayed at the top of the customer profile is the email address the customer replied with most recently.</li>
+      </ul>    
       <h3>3/23/21</h3>
       <ul>
            <li>Font formatting needs to be outside a Beacon JavaScript API method. This will not work: <xmp><a href="#" data-beacon-article=“Article-ID"><strong>Your text here</strong></a></xmp> This will work: <xmp> <strong><a href="#" data-beacon-article=“Article-ID”>Your text here</a></strong></xmp></li>
